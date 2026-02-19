@@ -13,10 +13,10 @@ Developer based in Europe, working at [@nedap](https://github.com/nedap). Open f
     style-guide-file: 'STYLE_GUIDE.md'
 ```
 
-**[Homelab Claude Skills](https://github.com/ddnetters/homelab-claude-skills)** — Claude Code agent skills for homelab services: Caddy, ntfy, Radarr/Sonarr, Langfuse, Plex.
+**[Homelab Agent Skills](https://github.com/ddnetters/homelab-agent-skills)** — Agent skills for homelab services: Caddy, ntfy, Radarr/Sonarr, Langfuse, Plex.
 
 ```bash
-npx skills add ddnetters/homelab-claude-skills@caddy-reverse-proxy
+npx skills add ddnetters/homelab-agent-skills@caddy-reverse-proxy
 ```
 
 ## Links
